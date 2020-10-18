@@ -60,5 +60,13 @@ jika tidak ada masalah maka akan seperti gambar di atas.
 
 12.lankah selanjut nya mengisi repository nya
 
+![10](https://user-images.githubusercontent.com/72899047/96365837-a575cb80-116d-11eb-93f5-688c47d41880.png)
+
+13.maka akan muncul seperti gambar berikut 
 
 ![11](https://user-images.githubusercontent.com/72899047/96365756-ffc25c80-116c-11eb-845e-f682a42eaaaa.png)
+
+copy link tersebut untuk menghubungkan dengan akun git yang ada di pc / laptop .
+
+14. cara menghubungkan nya dengan megetik " git remote add origin <link>"
+

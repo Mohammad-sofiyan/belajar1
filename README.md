@@ -38,5 +38,7 @@ warna merah tersebut berarti file belum di add
 
 8.caranya dengan mengetik " git add <file>" atau jika file yang merah lebih dari satu (git add).
   
+![6](https://user-images.githubusercontent.com/72899047/96364904-3e551880-1167-11eb-96a2-ba489ec81293.png)
   
-  
+untuk mengecek nya ketik "git status"
+

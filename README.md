@@ -56,4 +56,6 @@ jika tidak ada masalah maka akan seperti gambar di atas.
 
 11.jijika sudah memiliki akun buatlah repository baru "new repository"
 
+![9](https://user-images.githubusercontent.com/72899047/96365466-f46e3180-116a-11eb-871d-a19a755e4175.png)
 
+12.lankah selanjut nya mengisi repository nya

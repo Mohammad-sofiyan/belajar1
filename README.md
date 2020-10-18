@@ -22,3 +22,9 @@ dan nantinya di folder *latihan1* dan didalam nya akan ada folder baru dengan tu
 
 5.dan buatlah folder tersebut menjadi repo (repository) dengan cara *git init* jika benar akan seperti gambar di bawah ini:
 
+![3](https://user-images.githubusercontent.com/72899047/96364016-55ddd280-1162-11eb-819e-f74a8792638a.png)
+
+jika sudah seperti ini artinya folder sudaha menjadi repo.
+
+6.setelah itu buat file REMADE.md dengan mengetik `eco "latihan1" >> REMADE.md `
+

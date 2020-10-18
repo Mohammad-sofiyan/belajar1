@@ -42,3 +42,8 @@ warna merah tersebut berarti file belum di add
   
 untuk mengecek nya ketik "git status"
 
+![7](https://user-images.githubusercontent.com/72899047/96365038-16b28000-1168-11eb-8ac5-48955343e47a.png)
+
+maka warna pada file nya akan berubah hijau, file sudah di add
+
+9.langkah selanjutnya commit file tersebut (git commit -m "pesan" 

@@ -74,5 +74,21 @@ copy link tersebut untuk menghubungkan dengan akun git yang ada di pc / laptop .
 
 15.lankah selajutnya ketik "git push -u origin master"
 
+![13](https://user-images.githubusercontent.com/72899047/96366117-ac9dd900-116f-11eb-95be-bfb422d9973b.png)
 
 maka file sudah terhubung dengan akun github anda.
+
+pesan
+-mkdir<nama file> untuk membuat file baru
+  
+-git init untuk membuat repository local
+
+-git status untuk mengecek apakah ada perubahan di dalam file 
+
+-git add untuk menabahkan file baru 
+
+-gi commit untuk menyimpan perubahan kedalam database git.
+
+-git remote untuk menghubungkan file ke github 
+
+-git push untuk meng upload file ke github

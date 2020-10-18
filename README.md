@@ -59,3 +59,6 @@ jika tidak ada masalah maka akan seperti gambar di atas.
 ![9](https://user-images.githubusercontent.com/72899047/96365466-f46e3180-116a-11eb-871d-a19a755e4175.png)
 
 12.lankah selanjut nya mengisi repository nya
+
+
+![11](https://user-images.githubusercontent.com/72899047/96365756-ffc25c80-116c-11eb-845e-f682a42eaaaa.png)

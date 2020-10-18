@@ -70,3 +70,9 @@ copy link tersebut untuk menghubungkan dengan akun git yang ada di pc / laptop .
 
 14. cara menghubungkan nya dengan megetik " git remote add origin <link>"
 
+![12](https://user-images.githubusercontent.com/72899047/96365993-e7534180-116e-11eb-811e-58b814204353.png)
+
+15.lankah selajutnya ketik "git push -u origin master"
+
+
+maka file sudah terhubung dengan akun github anda.

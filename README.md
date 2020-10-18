@@ -47,3 +47,13 @@ untuk mengecek nya ketik "git status"
 maka warna pada file nya akan berubah hijau, file sudah di add
 
 9.langkah selanjutnya commit file tersebut (git commit -m "pesan" 
+
+![8](https://user-images.githubusercontent.com/72899047/96365259-82491d00-1169-11eb-9f35-dbd148ab6d65.png)
+
+jika tidak ada masalah maka akan seperti gambar di atas.
+
+10.langkah selanjutnya buatlah akun di (http://github,com)
+
+11.jijika sudah memiliki akun buatlah repository baru "new repository"
+
+

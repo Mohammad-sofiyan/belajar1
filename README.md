@@ -28,3 +28,6 @@ jika sudah seperti ini artinya folder sudaha menjadi repo.
 
 6.setelah itu buat file REMADE.md dengan mengetik `eco "latihan1" >> REMADE.md `
 
+![4](https://user-images.githubusercontent.com/72899047/96364149-6f334e80-1163-11eb-9939-73e65803e6a8.png)
+
+7.sekarang kita ketik perintah `1s -1` dan penampilan akan seperti ini 

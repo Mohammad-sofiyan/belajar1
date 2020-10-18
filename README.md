@@ -16,7 +16,7 @@ Kelas :TI.20.A2
 
 dan nantinya di folder *latihan1* dan didalam nya akan ada folder baru dengan tulisan seperti yang tadi kita ketik di terminal yaitu *latihan1*
 
-4.langkah selanjut nya masuk kedalam folder *latihan1* dengan mengetik `cd latihan1`war
+4.langkah selanjut nya masuk kedalam folder *latihan1* dengan mengetik `cd latihan1`
 
 ![1](https://user-images.githubusercontent.com/72899047/96363664-e7981080-115f-11eb-996d-eeba7bec1def.png)
 
@@ -79,16 +79,17 @@ copy link tersebut untuk menghubungkan dengan akun git yang ada di pc / laptop .
 maka file sudah terhubung dengan akun github anda.
 
 pesan
+
 -mkdir<nama file> untuk membuat file baru
   
--git init untuk membuat repository local
+-git init untuk membuat depository local 
 
 -git status untuk mengecek apakah ada perubahan di dalam file 
 
--git add untuk menabahkan file baru 
+-git add untuk memnambahkan file ke baru
 
--gi commit untuk menyimpan perubahan kedalam database git.
+-git commit untuk menyimpan perubahan kedalam data batabase git
 
--git remote untuk menghubungkan file ke github 
+-git remote untuk menghubungkan file ke github
 
--git push untuk meng upload file ke github
+-git push untuk meng uplode file ke github 
